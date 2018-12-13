@@ -1,2 +1,2 @@
 # gpaCalculator
-A simple GPA calculator using Javascript
+A simple GPA calculator using JavaScript
